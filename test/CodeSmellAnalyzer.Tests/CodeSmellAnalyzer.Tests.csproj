@@ -171,7 +171,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CodeSmellAnalyzer\CodeSmellAnalyzer.csproj">
+    <ProjectReference Include="..\..\src\CodeSmellAnalyzer\CodeSmellAnalyzer.csproj">
       <Project>{20954f76-6763-4062-833c-056c556a5a13}</Project>
       <Name>CodeSmellAnalyzer</Name>
     </ProjectReference>
